@@ -51,8 +51,3 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cybernobie&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybernobie&hide=TeX&layout=compact)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybernobie&show_icons=true&locale=en&layout=compact" alt="cybernobie" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybernobie&show_icons=true&locale=en" alt="cybernobie" /></p>
-.
