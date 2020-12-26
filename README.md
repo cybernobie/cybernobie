@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybernobie&label=Profile%20views&color=0e75b6&style=flat" alt="cybernobie" /> </p>
 
-<p align="left"> <a href="https://github.com/cybernobie/cybernobie"><img src="https://github-profile-trophy.vercel.app/?username=cybernobie" alt="cybernobie" /></a> </p>
+<p align="left"> <a href="https://github.com/cybernobie/cybernobie"><img src="https://github-profile-trophy.vercel.app/?username=cybernobie&rank=S" alt="cybernobie" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aryannegi009" target="blank"><img src="https://img.shields.io/twitter/follow/aryannegi009?logo=twitter&style=for-the-badge" alt="aryannegi009" /></a> </p>
 
