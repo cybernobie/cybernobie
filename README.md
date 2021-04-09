@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh Negi :heart:</h1>
-<h3 align="center">A passionate frontend & Backend Developer from India (Rishikesh). <br>Android Dev. Started With Aniye :heart: . Beta Tester</h3>
+<h3 align="center">A passionate frontend & Backend Developer from India (Rishikesh). <br>Android Dev. Started With Aniye :heart: . Beta Tester.<br>Age: 20 :heart:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybernobie&label=Profile%20views&color=0e75b6&style=flat" alt="cybernobie" /> </p>
 
