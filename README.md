@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh Negi :heart:</h1>
 <h3 align="center">A passionate frontend & Backend Developer from India (Uttarakhand). <br>Android Dev. Started With Aniye :heart: . Beta Tester.<br>Age: 20 :heart:</h3>
 
+
+<b>Fav Quote:</b> <b>Any Fool Can Write Code That A Computer Can Understand. Good Programmers Write Code That Humans Can Understand.</b>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybernobie&label=Profile%20views&color=0e75b6&style=flat" alt="cybernobie" /> </p>
 
 <p align="left"> <a href="https://github.com/cybernobie/cybernobie"><img src="https://github-profile-trophy.vercel.app/?username=cybernobie&theme=darkhub" alt="cybernobie" /></a> </p>
