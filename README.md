@@ -11,7 +11,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybernobie&show_icons=true&locale=en" alt="cybernobie" /></p>
 <p align="left"> <a href="https://twitter.com/aryannegi009" target="blank"><img src="https://img.shields.io/twitter/follow/aryannegi009?logo=twitter&style=for-the-badge" alt="aryannegi009" /></a> </p>
 
-- 🔭 I’m currently working on [Indiebook](https://indiebook.com)
+- 🔭 I’m currently working on Freelance Projects
 
 - 📝 I regulary write articles on [https://cybertricksforyou.blogspot.com/](https://cybertricksforyou.blogspot.com/)
 
