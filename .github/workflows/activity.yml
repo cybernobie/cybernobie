@@ -25,9 +25,9 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 18
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
@@ -37,3 +37,5 @@ jobs:
           plugin_lines_sections: base
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
