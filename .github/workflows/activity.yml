@@ -112,13 +112,14 @@ jobs:
           plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: cybernobie
+          plugin_steam_user: 76561199122149236
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: labels
