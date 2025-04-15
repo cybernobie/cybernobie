@@ -17,6 +17,9 @@ jobs:
           # Options
           template: classic
           base: header, activity, community, repositories, metadata
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
           plugin_calendar: yes
           plugin_calendar_limit: 0
           config_timezone: Europe/London
