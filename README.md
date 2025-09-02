@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh Negi :heart:</h1><br>
-<h3 align="center">UU > USCS > MCA (AI&ML) 1st Year</h3>
+<h3 align="center">UU > USCS > MCA (AI&ML) 2nd Year</h3>
 <h3 align="center">A passionate Full Stack Developer from India (Uttarakhand). <br>Android Dev. Started With Aniye :heart: . Beta Tester.<br>:heart:</h3>
 <br><h6><a href="https://www.geeksforgeeks.org/user/cybernobg485/">GeeksforGeeks</a> | | <a href="https://leetcode.com/u/cybernobie/">LeetCode</a></h6>
 
