@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh Negi :heart:</h1><br>
 <h3 align="center">UU > USCS > MCA (AI&ML) 2nd Year</h3>
 <h3 align="center">A passionate Full Stack Developer from India (Uttarakhand). <br>Android Dev. Started With Aniye :heart: . Beta Tester.<br>:heart:</h3>
-<br><h6><a href="https://www.geeksforgeeks.org/user/cybernobg485/">GeeksforGeeks</a> | | <a href="https://leetcode.com/u/cybernobie/">LeetCode</a></h6>
 
 [![@cybernobie's Holopin badges](https://holopin.me/cybernobie)](https://holopin.io/@cybernobie)
+
+<br><h6><a href="https://www.geeksforgeeks.org/user/cybernobg485/">GeeksforGeeks</a> | | <a href="https://leetcode.com/u/cybernobie/">LeetCode</a></h6>
 
 <b>Fav Quote:</b> <b>Any Fool Can Write Code That A Computer Can Understand. Good Programmers Write Code That Humans Can Understand.</b>
 
