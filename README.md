@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from India (Uttarakhand). <br>Android Dev. Started With Aniye :heart: . Beta Tester.<br>:heart:</h3>
 <br><h6><a href="https://www.geeksforgeeks.org/user/cybernobg485/">GeeksforGeeks</a> | | <a href="https://leetcode.com/u/cybernobie/">LeetCode</a></h6>
 
-[![@cybernobie's Holopin board](https://holopin.me/cybernobie)](https://holopin.io/@cybernobie)
+[![@cybernobie's Holopin badges](https://holopin.me/cybernobie)](https://holopin.io/@cybernobie)
 
 <b>Fav Quote:</b> <b>Any Fool Can Write Code That A Computer Can Understand. Good Programmers Write Code That Humans Can Understand.</b>
 
